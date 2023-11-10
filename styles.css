@@ -53,13 +53,13 @@ button {
     font-family: 'Open Sans', sans-serif;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 button:hover {
     background: #ff64bf;
+    transform: scale(1.1);
 }
-
 
 #triviaDisplay {
     background: #06b8ba;
