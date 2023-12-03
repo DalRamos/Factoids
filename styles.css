@@ -79,7 +79,8 @@ button:hover {
 
 footer {
     /* background: #333333; */
-    background: linear-gradient(to right, #ff65be, #fcee23, #06b8ba, #323332, #fefce1);
+    /* background: linear-gradient(to right, #ff65be, #fcee23, #06b8ba, #323332, #fefce1); */
+    background: #000000;
     color: #000000;
     color: #fff;
     padding: 10px;
